@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Ebook Portal</string>
+
+    <string name="bottomTabItem_1">Suggested</string>
+    <string name="bottomTabItem_2">Everything</string>
 </resources>
